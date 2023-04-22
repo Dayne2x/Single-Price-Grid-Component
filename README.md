@@ -1,4 +1,4 @@
-# Frontend Mentor - Single Price Grid Component Solution
+#![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) Frontend Mentor - Single Price Grid Component Solution
 
 This is a solution to the [Single Price Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -34,10 +34,10 @@ This is a solution to the [Single Price Grid challenge on Frontend Mentor](https
 
 ### Built with:
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Grid
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+
 
 
 ### What I learned
