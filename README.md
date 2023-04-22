@@ -28,7 +28,7 @@ This is a solution to the [Single Price Grid challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/Dayne2x/Social-Proof-Section)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Social-Proof-Section/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
